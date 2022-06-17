@@ -11,14 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grutt/udacity-c2-image-filter.git"
+    "url": "git+https://github.com/cliffordusidamen/udacity-c2-image-filter.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grutt/udacity-c2-image-filter/issues"
+    "url": "https://github.com/cliffordusidamen/udacity-c2-image-filter/issues"
   },
-  "homepage": "https://github.com/grutt/udacity-c2-image-filter#readme",
+  "homepage": "https://github.com/cliffordusidamen/udacity-c2-image-filter#readme",
+  "engines": {
+    "node": ">=16"
+  },
   "devDependencies": {
     "@types/bluebird": "^3.5.33",
     "@types/express": "^4.17.0",
